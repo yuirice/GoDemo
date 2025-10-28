@@ -484,3 +484,12 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/Go.db*
+
+# SSL certificates and keys
+ssl/
+*.pem
+*.key
+*.crt
+*.pfx
+*.csr
+
