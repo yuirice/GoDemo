@@ -493,3 +493,4 @@ ssl/
 *.pfx
 *.csr
 
+API/Go.db
